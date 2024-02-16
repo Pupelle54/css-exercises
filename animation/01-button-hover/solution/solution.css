@@ -1,4 +1,4 @@
-#transition-container {
+#container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -25,5 +25,5 @@ button {
 }
 
 button:hover {
-  transform: scale(1.2)
+  transform: scale(1.4)
 }
